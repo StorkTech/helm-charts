@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  stork-backend:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-05T13:41:33.378464009Z"
+    description: A Helm chart for Kubernetes
+    digest: 1169095a0e2c55ec075c5f0319c62210138b0cd0546daa753fd337163965a561
+    name: stork-backend
+    type: application
+    urls:
+    - https://github.com/StorkTech/helm-charts/releases/download/stork-backend-0.1.0/stork-backend-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-12-05T13:41:33.378475309Z"
